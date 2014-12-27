@@ -4,14 +4,22 @@ Notes
 Title: dpal kyi rdo rdje zhes bya ba'i rgyud kyi rgyal po bzhugs so
 -------------------------------------------------------------------
 
-Paper format: ca. 47.2 x 8.5 cm
-Title frame format: 18.3 x 4.5 cm
-Text frame format: 27 x 5.2 cm
-Normal bshad distance: ~.7cm
-Max bshad distance: 1.3cm
-Min bshad distance: .4cm
-Normal header page initial distance: 2.5cm
-Title line count per page: 3
+Paper format: ca. 47.2 x 8.5 cm  
+
+Title frame format: 18.3 x 4.5 cm  
+
+Text frame format: 27 x 5.2 cm  
+
+Normal bshad distance: ~.7cm  
+
+Max bshad distance: 1.3cm  
+
+Min bshad distance: .4cm  
+
+Normal header page initial distance: 2.5cm  
+
+Title line count per page: 3  
+
 Normal line count per page: 6
 
 
